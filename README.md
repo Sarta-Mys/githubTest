@@ -1,2 +1,2 @@
 # githubTest
-test
+test ican use this typing.
