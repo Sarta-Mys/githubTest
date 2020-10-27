@@ -1,2 +1,2 @@
 # githubTest
-test ican use this typing.
+This is my first time using Github
